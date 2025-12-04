@@ -2,6 +2,6 @@
 
 # Git Haiku
 
-Name:
+Name: Demo
 
 Poem: 
